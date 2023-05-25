@@ -7,5 +7,5 @@ hello = tf.constant('Hello, TensorFlow!')
 # Start tf session
 sess = tf.Session()
 
-# Run the op
+# Run the op change
 print(sess.run(hello))
